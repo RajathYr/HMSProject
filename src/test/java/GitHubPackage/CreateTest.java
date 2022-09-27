@@ -6,5 +6,9 @@ public class CreateTest {
 	{
       System.out.println();
 	}
-
+	@Test
+	public void update() 
+	{
+		System.out.println("update");
+		}
 }
