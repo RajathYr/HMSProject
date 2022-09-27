@@ -6,5 +6,15 @@ public class CreateTest {
 	{
       System.out.println();
 	}
+	@Test
+	public void refresh() 
+	{
+		System.out.println("refresh");
+	}
+	@Test
+	public void refresht() 
+	{
+		System.out.println("refresh");
+	}
 
 }
