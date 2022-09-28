@@ -11,4 +11,10 @@ public class CreateTest {
 	{
 		System.out.println("update");
 		}
+	@Test
+	public void insert() 
+	{
+		System.out.println("insert");
+	}
+	
 }
