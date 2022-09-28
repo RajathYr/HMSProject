@@ -7,14 +7,25 @@ public class CreateTest {
       System.out.println();
 	}
 	@Test
+
 	public void update() 
 	{
 		System.out.println("update");
 		}
-	@Test
-	public void insert() 
+
+	public void refresh() 
 	{
-		System.out.println("insert");
+		System.out.println("refresh");
 	}
-	
+	@Test
+	public void refresht() 
+	{
+		System.out.println("refresh");
+	}
+	@Test
+	public void m1() 
+	{
+		System.out.println("m1 method");
+	}
+
 }
